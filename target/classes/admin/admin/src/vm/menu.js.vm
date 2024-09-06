@@ -1,0 +1,12 @@
+const menu = {
+    list() {
+        return ${roleMenus}
+    }
+}
+export default menu;
+const menu = {
+    list() {
+        return ${roleMenus}
+    }
+}
+export default menu;
